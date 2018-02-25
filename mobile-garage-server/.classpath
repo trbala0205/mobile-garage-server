@@ -21,6 +21,6 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="/Users/balatr/Downloads/tomcat.jar"/>
+	<classpathentry kind="lib" path="/Users/balatr/tomcat/apache-tomcat-7.0.85/lib/tomcat-api.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
