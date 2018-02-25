@@ -49,7 +49,7 @@ public class AIWebhookServlet extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		//response.getWriter().append("Served at: ").append(request.getContextPath());
-		System.out.println("From Google Assistant-------111");
+		System.out.println("From Google Assistant-------222");
 	
 		System.out.println(request.getQueryString());
 		response.setContentType("text/html");
